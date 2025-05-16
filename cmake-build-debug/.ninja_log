@@ -1,0 +1,26 @@
+# ninja log v6
+34	725	7690598639220770	CMakeFiles/untitled1.dir/main.cpp.obj	c68ec164a805fd61
+39	520	7690598639273085	CMakeFiles/untitled1.dir/Sala.cpp.obj	5889f508bdefcf37
+769	1043	7690527278972963	untitled1.exe	7dfd11afd4073937
+4	320	7690599712326337	build.ninja	1cb542a941d98227
+41	555	7690527271691689	CMakeFiles/untitled1.dir/Enemigo.cpp.obj	17268c58bb962b60
+28	595	7690521130545745	CMakeFiles/untitled1.dir/Heroe.cpp.obj	8ffecc2e0199172b
+50	635	7690599712326337	build.ninja	1cb542a941d98227
+45	441	7690599714209114	CMakeFiles/untitled1.dir/Arma.cpp.obj	8e70cccf9a2f30d1
+442	687	7690599718175614	untitled1.exe	f10bc8e9bfdf6ddb
+24	491	7690613675100133	CMakeFiles/untitled1.dir/Heroe.cpp.obj	8ffecc2e0199172b
+33	516	7690613675182805	CMakeFiles/untitled1.dir/Enemigo.cpp.obj	17268c58bb962b60
+55	760	7690615162318700	CMakeFiles/untitled1.dir/main.cpp.obj	c68ec164a805fd61
+761	1003	7690615169382786	untitled1.exe	f10bc8e9bfdf6ddb
+5	644	7690621408924396	CMakeFiles/untitled1.dir/main.cpp.obj	c68ec164a805fd61
+644	893	7690621415309701	untitled1.exe	f10bc8e9bfdf6ddb
+8	635	7690623874326561	CMakeFiles/untitled1.dir/main.cpp.obj	c68ec164a805fd61
+636	881	7690623880594876	untitled1.exe	f10bc8e9bfdf6ddb
+102	753	7690638055348451	CMakeFiles/untitled1.dir/main.cpp.obj	c68ec164a805fd61
+753	1322	7690638061854261	untitled1.exe	f10bc8e9bfdf6ddb
+9	830	7690638218722776	CMakeFiles/untitled1.dir/main.cpp.obj	c68ec164a805fd61
+831	1132	7690638226952449	untitled1.exe	f10bc8e9bfdf6ddb
+65	849	7690641872157862	CMakeFiles/untitled1.dir/main.cpp.obj	c68ec164a805fd61
+849	1115	7690641879996559	untitled1.exe	f10bc8e9bfdf6ddb
+7	633	7690642643843768	CMakeFiles/untitled1.dir/main.cpp.obj	c68ec164a805fd61
+633	886	7690642650103805	untitled1.exe	f10bc8e9bfdf6ddb
